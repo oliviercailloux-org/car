@@ -8,6 +8,10 @@ import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+/**
+ * Note that these tests are incomplete. See the javadoc of the related classes
+ * for the rest of the specification.
+ */
 public class CarTests {
 	@SuppressWarnings("unused")
 	private static final Logger LOGGER = LoggerFactory.getLogger(CarTests.class);
