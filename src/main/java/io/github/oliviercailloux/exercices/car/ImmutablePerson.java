@@ -10,7 +10,7 @@ public class ImmutablePerson implements Person {
 	 * @param name  the name of that person
 	 * @param speed the favorite speed of that person, in km per hour
 	 */
-	public ImmutablePerson(String name, int favorite) {
+	public ImmutablePerson(String name, int speed) {
 		/* TODO */
 	}
 
