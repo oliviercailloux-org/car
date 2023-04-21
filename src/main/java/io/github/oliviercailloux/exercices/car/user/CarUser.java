@@ -12,6 +12,6 @@ public class CarUser {
 		// 10
 		car.getFirstPosition();
 		car.getSecondPosition();
-		car.getFirstPosition();
+		car.getThirdPosition();
 	}
 }
