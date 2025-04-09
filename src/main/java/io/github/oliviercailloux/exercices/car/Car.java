@@ -2,10 +2,12 @@ package io.github.oliviercailloux.exercices.car;
 
 /**
  * A car has a color (black or white), a driver, a passenger.
- * <p>
- * Paint: 6 points
- * <p>
- * Driving: 13 points, half of which for swap support.
+ * 
+ * This repository was used as a grading exercice previously, with the following grading scheme.
+ * <ul>
+ * <li>Paint: 6 points</li>
+ * <li>Driving: 13 points, half of which for swap support</li>
+ * </ul>
  * <p>
  * Parts of the specifications of this class is determined by the corresponding
  * unit tests.
